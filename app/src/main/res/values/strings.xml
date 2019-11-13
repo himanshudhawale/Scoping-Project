@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Next Pocket</string>
+
+    <!--Edittexts -->
+    <string name="email">Email</string>
+    <string name="password"> Password</string>
+
+    <!--Buttons -->
+    <string name="login">Login</string>
+    <string name="scan">Scan QR Code</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Questions -->
+    <string name="Question1">1. Poster content is of professional quality and indicates a mastery of the project subject matter.</string>
+    <string name="Question2">2. The presentation is organized, engaging, and includes a thorough description of the design and the implementation of the design</string>
+    <string name="Question3">3. All team members are suitably attired, are polite, demonstrate full knowledge of material, and can answer all relevant questions.</string>
+    <string name="Question4">4. The work product(model, prototype, documentation set or computer simulation) is of professional quality in all respects.</string>
+    <string name="Question5">5. The team implemented novel approaches and/or solutions in the development of the project.</string>
+    <string name="Question6">6. The project has the potential to enhance the reputation of the Innovative Computing Project and/or CCI/DSI.</string>
+    <string name="Question7">7. The team successfully explained the scope and the result of their project in no more than 5 minutes.</string>
+    <string name="low">No Evidence</string>
+    <string name="high"> Superior</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="gotoDash">View Dashboard</string>
+
+
+</resources>
