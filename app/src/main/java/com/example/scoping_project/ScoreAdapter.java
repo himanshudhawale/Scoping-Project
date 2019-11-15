@@ -42,7 +42,7 @@ public class ScoreAdapter extends RecyclerView.Adapter<ScoreAdapter.ViewHolder> 
         if (score!=null){
 
             holder.teamname.setText(score.getTeamName());
-            holder.score.setText("$"+score.getScore());
+            holder.score.setText(score.getScore());
 
         }
     }

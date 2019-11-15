@@ -65,7 +65,7 @@ public class TeamQRCodeActivity  extends  Activity implements ZXingScannerView.R
             }
         });
 
-        builder.setMessage(rawResult.getText());
+        builder.setMessage("QR Code scanned successfully.");
         AlertDialog alert1 = builder.create();
         alert1.show();
     }

@@ -25,7 +25,7 @@
     <string name="high"> Superior</string>
     <string name="next">Next</string>
     <string name="submit">Submit</string>
-    <string name="gotoDash">View Dashboard</string>
+    <string name="gotoDash">View Scoreboard</string>
 
 
 </resources>
